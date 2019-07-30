@@ -50,7 +50,7 @@ async def on_message(message):
     if message.content == '/category_channels':
         print(message.guild.categories)
     if message.content == '/team':
-        vc = client.get_channel(CHANNEL_ID)
+        vc = client.get_channel(600258156001624064)
         members = vc.members
         print(members)
 
