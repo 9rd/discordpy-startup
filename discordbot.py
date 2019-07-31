@@ -55,4 +55,4 @@ async def on_message(message):
         print(members)
 
 
-bot.run(token)
+client.run("NjA1MDAwMDI2MjM3OTYwMjA0.XUEtRw.yMA2ZzFvtEpf42oU-KLMujyqi20")
