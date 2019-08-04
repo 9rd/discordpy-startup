@@ -15,4 +15,4 @@ async def on_command_error(ctx, error):
 async def ping(ctx):
     await ctx.send('pong')
 
-client.run("NjA1MDAwMDI2MjM3OTYwMjA0.XUEuXg.vm0O8fheswPldECjPTFNXmpqANM")
+bot.run(token)
